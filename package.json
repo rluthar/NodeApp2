@@ -1,0 +1,14 @@
+{
+  "name": "ServiceB",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Rishi Luthar",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "request": "latest"
+  }
+}
